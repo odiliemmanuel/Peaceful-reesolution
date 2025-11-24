@@ -1,5 +1,5 @@
-    public class KataTest {
+    public class KataRun {
         public static void main(String...Odili){
-        System.out.println(Kata.reverseNumber(54145));
+        System.out.println(Kata.squareNumber(25));
         }
     }

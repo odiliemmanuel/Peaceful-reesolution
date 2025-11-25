@@ -2,7 +2,7 @@
         public static void main(String...Odili) {
 
 
-    System.out.printf("%s  %12s  %12s%n", "a", "b", "pow(a,b)");
+    System.out.printf("%s  %20s  %20s%n", "a", "b", "pow(a,b)");
 
 
     int count;
